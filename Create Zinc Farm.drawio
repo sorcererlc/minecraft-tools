@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-14T12:02:33.285Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ebXiA21ZRP47GNqCO-M0" version="24.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-15T13:25:57.761Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="V3pYrxJmY4fpAJtp943c" version="24.4.0" type="github">
   <diagram name="Zinc/Gold/Copper/Iron/Coal Farm" id="wbZJzkOH9JMcBuO1v7ie">
-    <mxGraphModel dx="8340" dy="4226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2919" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -388,7 +388,7 @@
         <mxCell id="tVKeyrfUWqHwYo1ynpqy-101" value="Cobblestone&lt;div&gt;Generator&lt;/div&gt;" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" parent="1" vertex="1">
           <mxGeometry x="765" y="-530" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="WHozUmdPE6ZQL1g-17j0-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tVKeyrfUWqHwYo1ynpqy-43" target="tVKeyrfUWqHwYo1ynpqy-20">
+        <mxCell id="WHozUmdPE6ZQL1g-17j0-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="tVKeyrfUWqHwYo1ynpqy-43" target="tVKeyrfUWqHwYo1ynpqy-20" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="290" as="sourcePoint" />
             <mxPoint x="730" y="240" as="targetPoint" />
