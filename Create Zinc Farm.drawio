@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-15T13:38:48.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="QLmWst3S0oWaPBsyvGwr" version="24.4.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-05-15T13:39:51.810Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="a8w6pU5UgtD8vrEXCnae" version="24.4.0" type="github" pages="2">
   <diagram name="Zinc/Gold/Copper/Iron/Coal Farm" id="wbZJzkOH9JMcBuO1v7ie">
     <mxGraphModel dx="2919" dy="2194" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -409,7 +409,7 @@
           <mxGeometry x="380" y="800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WNTUNpou6VA22YMj6vEy-4" value="Cinder Flour" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="480" y="530" width="120" height="60" as="geometry" />
+          <mxGeometry x="690" y="530" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WNTUNpou6VA22YMj6vEy-5" value="Pour&lt;div&gt;(spout)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="670" width="120" height="80" as="geometry" />
@@ -475,6 +475,24 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="440" y="620" as="sourcePoint" />
             <mxPoint x="490" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNTUNpou6VA22YMj6vEy-19" value="Netherrack" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="WNTUNpou6VA22YMj6vEy-20" value="Crush" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="380" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="WNTUNpou6VA22YMj6vEy-21" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WNTUNpou6VA22YMj6vEy-19" target="WNTUNpou6VA22YMj6vEy-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="630" as="sourcePoint" />
+            <mxPoint x="500" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WNTUNpou6VA22YMj6vEy-22" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="WNTUNpou6VA22YMj6vEy-20" target="WNTUNpou6VA22YMj6vEy-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="640" as="sourcePoint" />
+            <mxPoint x="510" y="590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
