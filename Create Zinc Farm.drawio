@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-22T17:20:47.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="uT4f1z33ssuwZKtmIhlC" version="24.4.4" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-05-22T17:22:11.085Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="VtFN0yWm_R2ukWsJUR7n" version="24.4.4" type="github" pages="4">
   <diagram name="Zinc/Gold/Copper/Iron/Coal Farm" id="wbZJzkOH9JMcBuO1v7ie">
     <mxGraphModel dx="3434" dy="2387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -566,7 +566,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="zdKWgqDkGh4el826rX_5" name="Gunpowder">
-    <mxGraphModel dx="5341" dy="2783" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4499" dy="2468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -598,16 +598,16 @@
           <mxGeometry x="15" y="160" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tRgC9iE3BP3rRHNaPVDa-10" value="Spider Eye" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="-300" width="120" height="60" as="geometry" />
+          <mxGeometry x="85" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tRgC9iE3BP3rRHNaPVDa-11" value="Craft" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-200" width="120" height="80" as="geometry" />
+          <mxGeometry x="235" y="-210" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="tRgC9iE3BP3rRHNaPVDa-12" value="Brown Mushroom" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="235" y="-300" width="120" height="60" as="geometry" />
+          <mxGeometry x="235" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tRgC9iE3BP3rRHNaPVDa-13" value="Sugar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="385" y="-300" width="120" height="60" as="geometry" />
+          <mxGeometry x="385" y="-310" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tRgC9iE3BP3rRHNaPVDa-14" value="Glistening Melon&lt;div&gt;Slice&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-362.5" y="-300" width="120" height="60" as="geometry" />
@@ -680,20 +680,20 @@
         </mxCell>
         <mxCell id="tRgC9iE3BP3rRHNaPVDa-27" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tRgC9iE3BP3rRHNaPVDa-10" target="tRgC9iE3BP3rRHNaPVDa-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-295" y="-230" as="sourcePoint" />
-            <mxPoint x="-215" y="-190" as="targetPoint" />
+            <mxPoint x="-295" y="-240" as="sourcePoint" />
+            <mxPoint x="-215" y="-200" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tRgC9iE3BP3rRHNaPVDa-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tRgC9iE3BP3rRHNaPVDa-12" target="tRgC9iE3BP3rRHNaPVDa-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-285" y="-220" as="sourcePoint" />
-            <mxPoint x="-205" y="-180" as="targetPoint" />
+            <mxPoint x="-285" y="-230" as="sourcePoint" />
+            <mxPoint x="-205" y="-190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tRgC9iE3BP3rRHNaPVDa-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tRgC9iE3BP3rRHNaPVDa-13" target="tRgC9iE3BP3rRHNaPVDa-11">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-275" y="-210" as="sourcePoint" />
-            <mxPoint x="-195" y="-170" as="targetPoint" />
+            <mxPoint x="-275" y="-220" as="sourcePoint" />
+            <mxPoint x="-195" y="-180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="tRgC9iE3BP3rRHNaPVDa-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tRgC9iE3BP3rRHNaPVDa-16" target="tRgC9iE3BP3rRHNaPVDa-7">
@@ -869,6 +869,18 @@
             <mxPoint x="-660" y="-290" as="sourcePoint" />
             <mxPoint x="-660" y="-230" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="sEAg4faTSha6jH3d07Ct-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sEAg4faTSha6jH3d07Ct-13" target="tRgC9iE3BP3rRHNaPVDa-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEAg4faTSha6jH3d07Ct-13" value="Craft" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-430" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="sEAg4faTSha6jH3d07Ct-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="sEAg4faTSha6jH3d07Ct-14" target="sEAg4faTSha6jH3d07Ct-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="sEAg4faTSha6jH3d07Ct-14" value="Sugar Cane" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
